@@ -14,3 +14,9 @@ npm start
 ```
 
 Open http://localhost:5000/ in your browser and go to the sketch.
+
+used console to find location of the first bugs - mousex undefined - changed name to mouseX (spelling mistake).
+
+used consol.log to check if the mouse clicked funtion working!
+
+used debugger command to step through line by line and checked values stored within the variables
